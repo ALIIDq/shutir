@@ -2,4 +2,10 @@
 
 ## pygame needed✔
 
-SImpli pigam gam
+**SImpli** pigam gam
+## требования
+нужно установить pygame
+если вы даун, и у вас не установлен он пропиши:
+```
+pip install pygame
+```
