@@ -1,6 +1,6 @@
 # shutir
 
-## pygame needed✔
+## pygame нужееен✔
 
 **SImpli** pigam gam
 ## требования
