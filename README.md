@@ -1,5 +1,5 @@
 # shutir
 
-## pygame needed
+## pygame needed✔
 
 SImpli pigam gam
