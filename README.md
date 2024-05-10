@@ -11,3 +11,4 @@
 pip install pygame
 ```
 
+ссылка на мой профайл: <https://github.com/ALIIDq>
